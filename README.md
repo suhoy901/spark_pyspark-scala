@@ -1,4 +1,4 @@
-# pyspark_tutorial
+# spark_pyspark-scala
 spark with python_jupyter
 
 ## 1. RDD_Transformation_Action
