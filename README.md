@@ -8,7 +8,6 @@ spark with python_jupyter
 - Recommendation system(scala)
   - [추천시스템 내용.scala](https://github.com/suhoy901/spark_pyspark-scala/blob/master/0.%20Semi_Project/1.%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C(MovieLens)/RecommenderSystem.ipynb)
 
-<br>
 ### 2. Classification Model(Kaggle : Stumbleupon)
 - [잡다한 분류모형.scala](https://github.com/suhoy901/spark_pyspark-scala/blob/master/0.%20Semi_Project/2.%20Kaggle_Stumbleupon/Stumbleupon.ipynb)
 
